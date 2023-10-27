@@ -1,8 +1,8 @@
-2023/10/07-21:55:35.552 4c1c Reusing MANIFEST C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/07-21:55:35.552 4c1c Recovering log #4
-2023/10/07-21:55:35.553 4c1c Reusing old log C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
-2023/10/07-21:59:59.182 4c1c Level-0 table #8: started
-2023/10/07-21:59:59.182 4c1c Level-0 table #8: 0 bytes OK
-2023/10/07-21:59:59.184 4c1c Delete type=0 #4
-2023/10/07-21:59:59.189 4c1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/10/07-21:59:59.189 4c1c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2023/10/22-23:13:37.367 720c Reusing MANIFEST C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/22-23:13:37.368 720c Recovering log #7
+2023/10/22-23:13:37.368 720c Reusing old log C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/10/22-23:14:04.025 bbe8 Level-0 table #11: started
+2023/10/22-23:14:04.026 bbe8 Level-0 table #11: 0 bytes OK
+2023/10/22-23:14:04.027 bbe8 Delete type=0 #7
+2023/10/22-23:14:04.032 bbe8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/22-23:14:04.032 bbe8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

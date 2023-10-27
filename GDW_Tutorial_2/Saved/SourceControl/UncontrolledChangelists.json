@@ -284,6 +284,11 @@
 				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/NewMap_sharedassets/Grass_LayerInfo.uasset",
 				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/NewMap_sharedassets/Rock_LayerInfo.uasset",
 				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/NewMap_sharedassets/Silt_LayerInfo.uasset",
+				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/DreamscapeSeries/DreamscapeTower/Terrain/Foliage/SM_Grass_Large_FoliageType.uasset",
+				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/DreamscapeSeries/DreamscapeTower/Terrain/Foliage/SM_Wheat_WIP_FoliageType.uasset",
+				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/Blueprints/BP_Objective.uasset",
+				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/Blueprints/AI_Enemy.uasset",
+				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/Blueprints/BP_Spawner.uasset",
 				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/Blueprints/Player/InputActions/IMC_Look.uasset",
 				"C:/Users/const/Documents/GitHub/Unreal-GDW-Tutorial-Repo/GDW_Tutorial_2/Content/Blueprints/Player/InputActions/IMC_Move.uasset"
 			]
